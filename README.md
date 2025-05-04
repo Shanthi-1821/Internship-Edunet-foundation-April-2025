@@ -38,6 +38,4 @@ The goal is to identify which customers are likely to stop using the company's s
 * Feature importance chart
 * Actual vs Predicted churn comparison
 
----
 
-Let me know if you'd like to include images, project structure, or GitHub instructions!
